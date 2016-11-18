@@ -11,10 +11,10 @@ This repository contains the example solution.
 The repository is tagged to create three version as listed below. If you are familiar with git, you can clone this repository and checkout the desired tag to get the solution up to that point. Alternatively (the easy option), you can download a zip file for each version from the [Releases Tab](https://github.com/jeremiahalex/pfnp/releases) above.
 
 ### Versions
-1. HTML Only
-2. HTML & CSS
-3. HTML, CSS & JS
-4. Website Deployed
+1. [HTML Only](https://github.com/jeremiahalex/pfnp/archive/v1.zip)
+2. [HTML & CSS](https://github.com/jeremiahalex/pfnp/archive/v2.zip)
+3. [HTML, CSS & JS](https://github.com/jeremiahalex/pfnp/archive/v3.zip)
+4. [Website Deployed](https://jeremiahalex.github.io/pfnp)
 
 ### Licensing
 All content is licensed under a CC-BY-NC-SA 4.0 license.
